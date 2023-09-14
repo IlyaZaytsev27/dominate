@@ -1,0 +1,15 @@
+C:\Users\Ilya1\Desktop\Lection1\dominate\exl_2\bin\Debug\net6.0\exl_2.exe
+C:\Users\Ilya1\Desktop\Lection1\dominate\exl_2\bin\Debug\net6.0\exl_2.deps.json
+C:\Users\Ilya1\Desktop\Lection1\dominate\exl_2\bin\Debug\net6.0\exl_2.runtimeconfig.json
+C:\Users\Ilya1\Desktop\Lection1\dominate\exl_2\bin\Debug\net6.0\exl_2.dll
+C:\Users\Ilya1\Desktop\Lection1\dominate\exl_2\bin\Debug\net6.0\exl_2.pdb
+C:\Users\Ilya1\Desktop\Lection1\dominate\exl_2\obj\Debug\net6.0\exl_2.csproj.AssemblyReference.cache
+C:\Users\Ilya1\Desktop\Lection1\dominate\exl_2\obj\Debug\net6.0\exl_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilya1\Desktop\Lection1\dominate\exl_2\obj\Debug\net6.0\exl_2.AssemblyInfoInputs.cache
+C:\Users\Ilya1\Desktop\Lection1\dominate\exl_2\obj\Debug\net6.0\exl_2.AssemblyInfo.cs
+C:\Users\Ilya1\Desktop\Lection1\dominate\exl_2\obj\Debug\net6.0\exl_2.csproj.CoreCompileInputs.cache
+C:\Users\Ilya1\Desktop\Lection1\dominate\exl_2\obj\Debug\net6.0\exl_2.dll
+C:\Users\Ilya1\Desktop\Lection1\dominate\exl_2\obj\Debug\net6.0\refint\exl_2.dll
+C:\Users\Ilya1\Desktop\Lection1\dominate\exl_2\obj\Debug\net6.0\exl_2.pdb
+C:\Users\Ilya1\Desktop\Lection1\dominate\exl_2\obj\Debug\net6.0\exl_2.genruntimeconfig.cache
+C:\Users\Ilya1\Desktop\Lection1\dominate\exl_2\obj\Debug\net6.0\ref\exl_2.dll
